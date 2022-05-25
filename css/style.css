@@ -1,3 +1,13 @@
-body{
-    background-color:rgb(119, 145, 110);
+body {
+    background-color: rgb(119, 145, 110);
+}
+
+td {
+    width: 20px;
+    height: 20px;
+  
+}
+
+td:hover {
+    background-color: rgb(113, 114, 111);
 }
