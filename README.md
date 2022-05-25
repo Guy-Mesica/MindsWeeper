@@ -1,1 +1,1 @@
-# MindsWeeper
+# MinesWeeper
